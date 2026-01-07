@@ -9,7 +9,7 @@
 
 <!-- 💜 Animated welcome GIF -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/nilambar-sonu/nilambar-sonu/main/github.gif">
+  <img src="https://raw.githubusercontent.com/nilambar-sonu/nilambar-sonu/main/github (2).gif">
 </h2>
 
 <br/>
