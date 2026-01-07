@@ -1,78 +1,92 @@
 <div align="center">
-
-<h1>Hi, I'm Nilambar Behera! 👋</h1>
-<h3>BCA Student | Data Scientist | Agri-Tech Founder</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=32&duration=2500&pause=500&color=0EA5E9&center=true&multiline=true&repeat=false&width=800&height=120&lines=Hi%2C+I'm+Nilambar+Behera!;Aspiring+Data+Scientist+%26+Web+Dev;BCA+Student+from+Odisha%2C+India." alt="Typing SVG"/>
+  </a>
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Data%20Science%20%26%20IoT%20Developer&fontSize=50&fontAlign=50&fontAlignY=35" alt="Header" width="100%">
+<div align="center">
+  <img src="https://via.placeholder.com/800x200/003366/ffffff?text=Welcome+to+My+Profile" alt="Welcome Banner" width="100%"/>
+</div>
 
-<br/><br/>
+<br/>
 
-<a href="https://nilambar-sonu-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:nilambarsonubehera@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nilambar-sonu-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilambar-sonu)
 
 </div>
 
 <br/>
 
-### 👨‍💻 About Me
+<h3 align="center">⚡ About Me</h3>
 
-I am an analytical and driven **Full Stack Developer** and **Data Science enthusiast** from Odisha, India. Currently pursuing my BCA at **Bhadrak Autonomous College**.
-
-- 🔭 I’m currently working on **Mitti-AI (Saathi AI)**, an agri-tech startup.
-- 🏆 **Achievement:** Secured ₹1 Lakh grant for innovation in sustainable farming technology.
-- 🎓 **Certifications:** IBM Data Science Professional, Python for Data Science.
-- 💡 **Interests:** IoT (ESP32), AI Model Deployment, and Building Real-world Solutions.
-
-<br/>
-
-### 🛠️ Skills & Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-
-  <br/>
-  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<p align="center">
+ I am a <b>BCA student</b> with a strong passion for <b>Data Science</b> and <b>Web Development</b>. I love working on real-world projects and have successfully completed certifications like "Python for Data Science and AI" by IBM. My goal is to become a skilled Data Scientist, and I am continuously learning to achieve that.
 </p>
 
 <br/>
 
-### 📈 GitHub Analytics
+<details open>
+<summary><b>🛠️ Skills & Technologies</b></summary>
+<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
-</div>
+<p align="left">
+  <b>Languages:</b><br>
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+ 
+</p>
 
-<br/>
+<p align="left">
+  <b>Data Science & Libraries:</b><br>
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+  ![Data Analysis](https://img.shields.io/badge/Data_Analysis-007ACC?style=flat-square)
+ 
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
+<p align="left">
+  <b>Web Development:</b><br>
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+ 
+</p>
+
+<p align="left">
+  <b>Tools & Platforms:</b><br>
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+  ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+ 
+</p>
+
+</details>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nilambar-sonu&label=Profile+Views&color=0EA5E9&style=flat-square" alt="Visitor Count" />
+</p>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilambar-sonu/nilambar-sonu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nilambar-sonu/nilambar-sonu/output/github-contribution-grid-snake.svg">
+</picture>
+<br>
+
+### <div align="center">📫 Reach me at: **<span style="color: #0EA5E9;">your.email@example.com</span>**</div>
