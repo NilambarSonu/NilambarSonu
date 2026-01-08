@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;AI+Enthusiast+%F0%9F%A4%96+%7C+Frontend+Developer+%F0%9F%92%BB;IoT+Engineer+%F0%9F%94%8C+%7C+Prompt+Engineer+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;AI+Enthusiast+%F0%9F%A4%96+%7C+Frontend+Developer+%F0%9F%92%BB;IoT+Engineer+%F0%9F%94%8C+%7C+Prompt+Engineer+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -168,12 +168,16 @@ class DataScientist:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NilambarSonu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NilambarSonu&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NilambarSonu&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=NilambarSonu&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilambarSonu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NilambarSonu&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+</div>
+
+<div align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NilambarSonu&theme=radical" />
 </div>
 
 ---
@@ -181,7 +185,7 @@ class DataScientist:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NilambarSonu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NilambarSonu&theme=radical&no-frame=true&no-bg=false&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 ---
@@ -189,18 +193,22 @@ class DataScientist:
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NilambarSonu&theme=tokyo-night&hide_border=true&area=true" width="100%">
+  
+[![NilambarSonu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NilambarSonu&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NilambarSonu/NilambarSonu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NilambarSonu/NilambarSonu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NilambarSonu/NilambarSonu/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/NilambarSonu/NilambarSonu/output/snake.svg)
+
+</div>
+
+> **Note:** The snake animation requires GitHub Actions setup. If the image doesn't appear, you can set it up by creating a `.github/workflows/snake.yml` file in your profile repository.
 
 ---
 
