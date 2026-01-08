@@ -57,7 +57,7 @@
 </table>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00C7B7?style=for-the-badge)](https://nilambar-sonu-portfolio.vercel.app/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/NilambarSonu%20Behera)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/nilambarsonubehera)
 [![Email](https://img.shields.io/badge/Email-nilambarsonubehera%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilambarsonubehera@gmail.com)
 
 </div>
