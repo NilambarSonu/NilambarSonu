@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;AI+Enthusiast+%F0%9F%A4%96+%7C+Frontend+Developer+%F0%9F%92%BB;IoT+Engineer+%F0%9F%94%8C+%7C+Prompt+Engineer+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;AI+Enthusiast+%F0%9F%A4%96+%7C+Frontend+Developer+%F0%9F%92%BB;IoT+Engineer+%F0%9F%94%8C+%7C+Prompt+Engineer+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -185,7 +185,9 @@ class DataScientist:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NilambarSonu&theme=radical&no-frame=true&no-bg=false&row=1&column=7" width="100%" alt="Trophy" />
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=NilambarSonu&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -208,7 +210,11 @@ class DataScientist:
 
 </div>
 
-> **Note:** The snake animation requires GitHub Actions setup. If the image doesn't appear, you can set it up by creating a `.github/workflows/snake.yml` file in your profile repository.
+> **Note:** To enable the snake animation, make sure:
+> 1. The workflow file is in `.github/workflows/snake.yml` in your **NilambarSonu** repository (not NilambarSonu/NilambarSonu)
+> 2. Go to Actions tab and manually run the "Generate Snake" workflow
+> 3. Enable GitHub Pages with source set to the `output` branch
+> 4. Wait a few minutes for the workflow to complete
 
 ---
 
