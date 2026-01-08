@@ -71,8 +71,8 @@ class DataScientist:
     def __init__(self):
         self.name = "NilambarSonu Behera"
         self.role = "Aspiring Data Scientist & AI Enthusiast"
-        self.location = "Bhubaneswar, Odisha, India"
-        self.education = "B.Tech Student"
+        self.location = "Balasore, Odisha, India"
+        self.education = "B.C.A Student"
         
     def current_focus(self):
         return [
@@ -189,16 +189,10 @@ class DataScientist:
 [![trophy](https://github-profile-trophy.vercel.app/?username=NilambarSonu&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+<img src="https://github-trophies.vercel.app/?username=NilambarSonu&theme=radical&no-frame=false&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=NilambarSonu&theme=algolia&no-frame=false&margin-w=15" />
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![NilambarSonu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NilambarSonu&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
@@ -210,15 +204,9 @@ class DataScientist:
 
 </div>
 
-> **Note:** To enable the snake animation, make sure:
-> 1. The workflow file is in `.github/workflows/snake.yml` in your **NilambarSonu** repository (not NilambarSonu/NilambarSonu)
-> 2. Go to Actions tab and manually run the "Generate Snake" workflow
-> 3. Enable GitHub Pages with source set to the `output` branch
-> 4. Wait a few minutes for the workflow to complete
-
 ---
 
-## 💭 Random Dev Quote
+## 💭 Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
