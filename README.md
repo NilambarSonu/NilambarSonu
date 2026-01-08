@@ -57,7 +57,7 @@
 </table>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00C7B7?style=for-the-badge)](https://nilambar-sonu-portfolio.vercel.app/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/nilambarsonu%20behera)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/NilambarSonu%20Behera)
 [![Email](https://img.shields.io/badge/Email-nilambarsonubehera%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilambarsonubehera@gmail.com)
 
 </div>
@@ -184,13 +184,7 @@ class DataScientist:
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=NilambarSonu&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 <img src="https://github-trophies.vercel.app/?username=NilambarSonu&theme=radical&no-frame=false&row=2&column=4" />
-<img src="https://github-profile-trophy.vercel.app/?username=NilambarSonu&theme=algolia&no-frame=false&margin-w=15" />
 
 ---
 
