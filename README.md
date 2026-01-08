@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=nilambar-sonu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=NilambarSonu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
 </div>
 
@@ -71,8 +71,8 @@ class DataScientist:
     def __init__(self):
         self.name = "NilambarSonu Behera"
         self.role = "Aspiring Data Scientist & AI Enthusiast"
-        self.location = "Balasore, Odisha, India"
-        self.education = "B.C.A Student"
+        self.location = "Bhubaneswar, Odisha, India"
+        self.education = "B.Tech Student"
         
     def current_focus(self):
         return [
