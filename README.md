@@ -71,8 +71,8 @@ class DataScientist:
     def __init__(self):
         self.name = "NilambarSonu Behera"
         self.role = "Aspiring Data Scientist & AI Enthusiast"
-        self.location = "Bhubaneswar, Odisha, India"
-        self.education = "B.Tech Student"
+        self.location = "Balasore, Odisha, India"
+        self.education = "B.C.A Student"
         
     def current_focus(self):
         return [
@@ -168,12 +168,12 @@ class DataScientist:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nilambar-sonu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nilambar-sonu&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NilambarSonu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NilambarSonu&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilambar-sonu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilambarSonu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
@@ -181,7 +181,7 @@ class DataScientist:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nilambar-sonu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NilambarSonu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 ---
@@ -189,7 +189,7 @@ class DataScientist:
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilambar-sonu&theme=tokyo-night&hide_border=true&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NilambarSonu&theme=tokyo-night&hide_border=true&area=true" width="100%">
 </div>
 
 ---
@@ -197,9 +197,9 @@ class DataScientist:
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nilambar-sonu/nilambar-sonu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nilambar-sonu/nilambar-sonu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nilambar-sonu/nilambar-sonu/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NilambarSonu/NilambarSonu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NilambarSonu/NilambarSonu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NilambarSonu/NilambarSonu/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
