@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#171044"/><stop offset=".48" stop-color="#273B9A"/><stop offset="1" stop-color="#087F8C"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#A78BFA"/><stop offset=".55" stop-color="#60A5FA"/><stop offset="1" stop-color="#5EEAD4"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity=".075"/>
+  </pattern>
+  <filter id="glow" x="650" y="-80" width="650" height="460" color-interpolation-filters="sRGB">
+    <feGaussianBlur stdDeviation="30"/>
+  </filter>
+</defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+<circle cx="1000" cy="145" r="155" fill="#5EEAD4" fill-opacity=".2" filter="url(#glow)"/>
+<circle cx="1000" cy="145" r="104" stroke="url(#accent)" stroke-width="2" stroke-opacity=".8"/>
+<circle cx="1000" cy="145" r="72" stroke="#FFFFFF" stroke-opacity=".32" stroke-width="1.5"/>
+<circle cx="1000" cy="145" r="39" stroke="#FFFFFF" stroke-opacity=".3" stroke-width="1.5"/>
+<path d="M888 208C923 63 1094 37 1112 137C1131 239 970 265 909 178C859 107 952 47 1058 62" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1112" cy="137" r="7" fill="#5EEAD4"/><circle cx="909" cy="178" r="6" fill="#A78BFA"/><circle cx="1058" cy="62" r="6" fill="#60A5FA"/>
+<rect x="68" y="54" width="52" height="5" rx="2.5" fill="#5EEAD4"/>
+<text x="68" y="101" fill="#C4B5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3">PRODUCT ENGINEER  /  INDIA</text>
+<text x="64" y="166" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="800" letter-spacing="-1.5">Nilambar Behera</text>
+<text x="68" y="207" fill="#E0E7FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="600">Full-stack engineering  ·  Applied AI  ·  Cloud</text>
+<text x="68" y="250" fill="#C7D2FE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Turning ideas into useful, reliable software products.</text>
+</svg>
