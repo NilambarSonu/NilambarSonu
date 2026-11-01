@@ -1,0 +1,39 @@
+<svg width="1200" height="310" viewBox="0 0 1200 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#191D3B"/><stop offset="1" stop-color="#11182A"/>
+    </linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="308" rx="22" fill="#0D1222" stroke="#34365F"/>
+  <g>
+    <rect x="18" y="18" width="374" height="274" rx="16" fill="url(#card)" stroke="#51458A"/>
+    <rect x="42" y="42" width="42" height="42" rx="12" fill="#30285D"/>
+    <path d="M53 64h20M63 54v20" stroke="#B9A7FF" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="42" y="126" fill="#AFA2FF" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">01 / AGRITECH</text>
+    <text x="42" y="163" fill="#F8FAFC" font-family="Inter,Arial,sans-serif" font-size="26" font-weight="700">Mitti-AI</text>
+    <text x="42" y="193" fill="#B8BED3" font-family="Inter,Arial,sans-serif" font-size="15">IoT sensing meets practical</text>
+    <text x="42" y="216" fill="#B8BED3" font-family="Inter,Arial,sans-serif" font-size="15">agricultural intelligence.</text>
+    <text x="42" y="263" fill="#5EEAD4" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700">HARDWARE  ·  DATA  ·  AI</text>
+  </g>
+  <g>
+    <rect x="413" y="18" width="374" height="274" rx="16" fill="url(#card)" stroke="#51458A"/>
+    <rect x="437" y="42" width="42" height="42" rx="12" fill="#30285D"/>
+    <path d="M448 71l10-17 10 17M453 65h10" stroke="#B9A7FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="437" y="126" fill="#AFA2FF" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">02 / AI RELIABILITY</text>
+    <text x="437" y="163" fill="#F8FAFC" font-family="Inter,Arial,sans-serif" font-size="26" font-weight="700">Veylith</text>
+    <text x="437" y="193" fill="#B8BED3" font-family="Inter,Arial,sans-serif" font-size="15">Engineering evaluation and</text>
+    <text x="437" y="216" fill="#B8BED3" font-family="Inter,Arial,sans-serif" font-size="15">reliability for AI systems.</text>
+    <text x="437" y="263" fill="#5EEAD4" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700">EVALUATION  ·  SYSTEMS</text>
+  </g>
+  <g>
+    <rect x="808" y="18" width="374" height="274" rx="16" fill="url(#card)" stroke="#51458A"/>
+    <rect x="832" y="42" width="42" height="42" rx="12" fill="#30285D"/>
+    <path d="M843 55h20v16h-20zM848 50h10" stroke="#B9A7FF" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    <text x="832" y="126" fill="#AFA2FF" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">03 / FINTECH</text>
+    <text x="832" y="163" fill="#F8FAFC" font-family="Inter,Arial,sans-serif" font-size="26" font-weight="700">SpendLens</text>
+    <text x="832" y="193" fill="#B8BED3" font-family="Inter,Arial,sans-serif" font-size="15">Clearer spending insights</text>
+    <text x="832" y="216" fill="#B8BED3" font-family="Inter,Arial,sans-serif" font-size="15">through deterministic analysis.</text>
+    <text x="832" y="263" fill="#5EEAD4" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700">NEXT.JS  ·  DATA  ·  AI</text>
+  </g>
+</svg>
