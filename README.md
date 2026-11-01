@@ -1,83 +1,84 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D16,50:172554,100:2563EB&height=190&section=header&text=NILAMBAR%20BEHERA&fontSize=38&fontColor=F8FAFC&fontAlignY=38&desc=PRODUCT%20ENGINEER%20%2F%2F%20FULL-STACK%20%2B%20APPLIED%20AI&descSize=13&descAlignY=59&animation=fadeIn" />
+<img src="assets/hero.svg" width="100%" alt="Nilambar Behera — Product Engineer, Full-stack and Applied AI" />
 
-**I turn ideas into products.**
+<br/>
 
-Designing systems · Engineering experiences · Shipping solutions
+<a href="https://nilambarsonu.me">PORTFOLIO</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nilambarsonu/">LINKEDIN</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.kaggle.com/nilambarsonubehera">KAGGLE</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:nilambarsonubehera@gmail.com">EMAIL</a>
 
-[Portfolio](https://nilambarsonu.me) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/nilambarsonu/) &nbsp; / &nbsp; [Kaggle](https://www.kaggle.com/nilambarsonubehera) &nbsp; / &nbsp; [Email](mailto:nilambarsonubehera@gmail.com)
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=NilambarSonu&style=flat&color=7667D8&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
----
+<br/>
 
-### 01 / INTRODUCTION
+## A little about me
 
-I'm Nilambar, an early-career **Product Engineer** from Odisha, India.
+I’m Nilambar — a Product Engineer from Odisha, India. I build end-to-end software across **full-stack engineering, applied AI, and cloud**.
 
-I build end-to-end software products across full-stack development, applied AI, and cloud infrastructure.
+Currently building **[Mitti-AI](https://saathiai.org)**, an award-winning agritech platform connecting field hardware, data, and intelligent recommendations.
 
-Currently building **[Mitti-AI](https://saathiai.org)** — bringing intelligent technology to agriculture.
+I care about the complete product: the problem, the architecture, the experience, and what happens after deployment.
 
-My approach is simple: understand the problem, engineer the solution, and ship something that works.
+<br/>
 
-### 02 / SELECTED WORK
+## Selected projects
 
-| PROJECT | FOCUS |
-|:--|:--|
-| **Mitti-AI** | IoT · AI · Precision Agriculture |
-| **Veylith** | AI Reliability · Model Evaluation |
-| **SpendLens** | Fintech · Applied AI · SaaS |
-| **AI Career Architect** | Document Intelligence · AI |
+<div align="center">
+<img src="assets/projects.svg" width="100%" alt="Selected projects: Mitti-AI, Veylith, and SpendLens" />
+</div>
 
-### 03 / TOOLKIT
+- **Mitti-AI** — IoT-powered agricultural intelligence. [Explore](https://saathiai.org)
+- **Veylith** — AI reliability and model evaluation.
+- **SpendLens** — Financial analysis with deterministic insights and AI-assisted explanations.
 
-**BUILD**
+<br/>
 
+## My toolkit
+
+**PRODUCT ENGINEERING**  
 `TypeScript` `JavaScript` `Python` `React` `Next.js` `React Native` `Node.js` `FastAPI`
 
-**DATA & INTELLIGENCE**
+**DATA & AI**  
+`PostgreSQL` `Supabase` `Pandas` `NumPy` `scikit-learn` `PyTorch` `LLM APIs`
 
-`PostgreSQL` `Supabase` `Pandas` `NumPy` `Scikit-learn` `PyTorch` `LLM APIs`
-
-**INFRASTRUCTURE**
-
+**CLOUD & DELIVERY**  
 `AWS` `Docker` `Git` `GitHub Actions` `Vercel` `CI/CD`
 
-### 04 / BEYOND THE CODE
+<br/>
 
-**Founder — Mitti-AI / Saathi AI**
+## A few milestones
 
-Building an end-to-end agriculture intelligence platform combining embedded systems, data engineering, and AI.
+| | |
+|:--|:--|
+| **Founder** | Mitti-AI / Saathi AI |
+| **Recognition** | 1st place — college, university and Odisha state innovation competitions |
+| **Awards** | ₹6,00,000 cumulative innovation funding |
+| **Experience** | Bluestock Fintech · InAmigos Foundation |
+| **Education** | BCA · CGPA 8.5/10 · Graduating March 2027 |
 
-**Recognition**
-
-- 1st place — College, University & Odisha State innovation competitions.
-- ₹6,00,000 in cumulative innovation awards.
-
-**Industry Experience**
-
-- Data Analyst Intern — Bluestock Fintech
-- AI Web Development Intern — InAmigos Foundation
-
-**Education**
-
-BCA · Bhadrak Autonomous College, Fakir Mohan University  
-CGPA 8.5/10 · March 2027
-
----
+<br/>
 
 <div align="center">
 
-### LET'S MAKE SOMETHING MATTER.
+### Have a meaningful problem to solve?
 
-Open to meaningful engineering opportunities, ambitious products, and global collaborations.
+I’m open to product engineering opportunities and collaborations with people building useful things.
 
-**[Explore my work →](https://nilambarsonu.me)**
+<a href="https://nilambarsonu.me"><b>EXPLORE MY WORK ↗</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:nilambarsonubehera@gmail.com"><b>GET IN TOUCH ↗</b></a>
 
-<sub>Think deeply. Build deliberately. Ship relentlessly.</sub>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:080D16&height=90&section=footer" />
+<sub>Curiosity in the details. Craft in the execution.</sub>
 
 </div>
