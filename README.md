@@ -1,17 +1,137 @@
+# Nilambar Behera
+
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NilambarSonu%20Behera&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+### PRODUCT ENGINEER · FULL-STACK · APPLIED AI
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;AI+Enthusiast+%F0%9F%A4%96+%7C+Frontend+Developer+%F0%9F%92%BB;IoT+Engineer+%F0%9F%94%8C+%7C+Prompt+Engineer+%E2%9C%A8" alt="Typing SVG" />
-</a>
+Building software products from architecture to deployment.
+
+[Portfolio](https://nilambarsonu.me) · [LinkedIn](https://www.linkedin.com/in/nilambarsonu/) · [Kaggle](https://www.kaggle.com/nilambarsonubehera) · [Email](mailto:nilambarsonubehera@gmail.com)
 
 <br/>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=NilambarSonu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+![Profile Views](https://komarev.com/ghpvc/?username=NilambarSonu&style=flat&color=2563eb&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## About
+
+I'm an early-career **Product Engineer** and final-year BCA student at Bhadrak Autonomous College, India.
+
+I enjoy turning complex ideas into practical, reliable software — from designing system architecture and building full-stack applications to integrating AI and deploying cloud infrastructure.
+
+I'm the founder of **[Mitti-AI](https://saathiai.org)**, an award-winning agritech initiative building intelligent solutions for agriculture.
+
+- **10+** production-ready projects and engineering builds.
+- **₹6,00,000** in innovation competition awards for Mitti-AI.
+- Experience across full-stack engineering, applied AI, data, and cloud.
+- Interested in building impactful products and collaborating with global teams.
+
+Currently focused on shipping better products, improving engineering fundamentals, and exploring the intersection of software and intelligent systems.
+
+## Selected Work
+
+| Project | What I'm building |
+|---|---|
+| **Mitti-AI / Saathi AI** | An intelligent agriculture platform combining IoT sensing, data processing, and AI-powered agricultural recommendations. |
+| **SpendLens** | An AI-assisted financial analysis platform with deterministic spending intelligence and personalized recommendations. |
+| **AI Career Architect** | A résumé analysis platform with document extraction, ATS scoring, and actionable career insights. |
+| **LectureSnap.ai** | A Chrome extension that transforms YouTube lectures into timestamped screenshots and AI-generated summaries. |
+| **Bistro Sequence** | Browser-based video-to-image processing using Canvas API and Web Workers. |
+| **Kalinga Trails** | A responsive tourism platform with destination discovery, trip-planning workflows, and analytics. |
+
+## Engineering Stack
+
+**Languages & Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Infrastructure**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Data Science & Applied AI**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM_Integration-2563EB?style=flat-square&logo=openai&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## Experience & Recognition
+
+**Founder & Product Engineer — Mitti-AI / Saathi AI**
+
+*August 2025 – Present*
+
+- Architected an end-to-end IoT and AI-powered agriculture platform.
+- Led product development across embedded systems, backend intelligence, and mobile applications.
+- Secured first place at college, university, and Odisha state-level innovation competitions.
+- Earned ₹6 lakh in cumulative innovation awards.
+
+**Data Analyst Intern — Bluestock Fintech**
+
+*May 2026 – July 2026 · Remote*
+
+- Worked with Python, Pandas, SQL, and financial datasets.
+- Developed structured analytical workflows and business insights.
+
+**AI Web Development Intern — InAmigos Foundation**
+
+*May 2026 · Remote*
+
+- Delivered five scoped assignments, including two deployed websites.
+- Contributed to AI-assisted product development, UX audits, and Figma workflows.
+
+## Education
+
+**Bachelor of Computer Applications (BCA)**
+
+Bhadrak Autonomous College · Fakir Mohan University
+
+2024 – March 2027 · **CGPA: 8.5/10**
+
+College Topper
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NilambarSonu&show_icons=true&hide_border=true&theme=transparent&title_color=60A5FA&icon_color=60A5FA&text_color=94A3B8&rank_icon=github" alt="GitHub statistics" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=NilambarSonu&theme=transparent&hide_border=true&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B" alt="GitHub streak" />
+
+<br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilambarSonu&layout=compact&hide_border=true&theme=transparent&title_color=60A5FA&text_color=94A3B8&langs_count=6" alt="Most used languages" />
 
 </div>
 
@@ -19,203 +139,12 @@
 
 <div align="center">
 
-## 🌐 Connect With Me
+### Let's build something meaningful.
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/NilambarSonu">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        <br/><b>GitHub</b>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://www.linkedin.com/in/nilambarsonu-behera-37ba0036a/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        <br/><b>LinkedIn</b>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://www.instagram.com/nilambarsonu/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-        <br/><b>Instagram</b>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://x.com/NilambarBeher?s=08">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-        <br/><b>Twitter</b>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://www.facebook.com/share/16o7JTxTWW/">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-        <br/><b>Facebook</b>
-      </a>
-    </td>
-  </tr>
-</table>
+Open to engineering opportunities, interesting collaborations, and conversations about technology.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00C7B7?style=for-the-badge)](https://nilambar-sonu-portfolio.vercel.app/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/nilambarsonubehera)
-[![Email](https://img.shields.io/badge/Email-nilambarsonubehera%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilambarsonubehera@gmail.com)
+**[Portfolio](https://nilambarsonu.me) · [LinkedIn](https://www.linkedin.com/in/nilambarsonu/) · [Get in touch](mailto:nilambarsonubehera@gmail.com)**
 
-</div>
-
----
-
-## 🚀 About Me
-
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "NilambarSonu Behera"
-        self.role = "Aspiring Data Scientist & AI Enthusiast"
-        self.location = "Balasore, Odisha, India"
-        self.education = "B.C.A Student"
-        
-    def current_focus(self):
-        return [
-            "Machine Learning & Deep Learning",
-            "Data Analysis & Visualization",
-            "Full-Stack Web Development",
-            "IoT & Embedded Systems",
-            "AI-Powered Applications"
-        ]
-    
-    def life_philosophy(self):
-        return "Transforming data into insights, code into solutions! 💡"
-```
-
----
-
-## 💻 Tech Stack
-
-<details open>
-<summary><b>🔤 Programming Languages</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br/>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🤖 Data Science & AI/ML</b></summary>
-<br/>
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & Technologies</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</details>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NilambarSonu&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=NilambarSonu&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NilambarSonu&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-</div>
-
-<div align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NilambarSonu&theme=radical" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-trophies.vercel.app/?username=NilambarSonu&theme=radical&no-frame=false&row=2&column=4" />
-
----
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/NilambarSonu/NilambarSonu/output/snake.svg)
-
-</div>
-
----
-
-## 💭 Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-<div align="center">
-
-### 💌 Let's Collaborate!
-
-**I'm always open to interesting conversations and collaboration opportunities.**
-
-*Building the future, one line of code at a time* ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<sub>Designed with purpose. Built with curiosity. Shipped with engineering.</sub>
 
 </div>
