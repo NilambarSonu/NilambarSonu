@@ -119,7 +119,7 @@ $$\Large\color{#A78BFA}\boldsymbol{\mathit{Building\ thoughtful\ products.\quad 
       </td>
       <td align="right" valign="middle">
         <img src="https://img.shields.io/badge/-Pandas-1E293B?style=flat-square&logo=pandas&logoColor=A78BFA" alt="Pandas"/>
-        <img src="https://img.shields.io/badge/-NumPy-1E293B?style=flat-square&logo=numpy&logoColor=38BDF8" alt="NumPy"/><br/>
+        <img src="https://img.shields.io/badge/-NumPy-1E293B?style=flat-square&logo=numpydotnet&logoColor=38BDF8" alt="NumPy"/>
         <img src="https://img.shields.io/badge/-LLM_Agents-1E293B?style=flat-square&logo=openai&logoColor=2DD4BF" alt="LLM"/>
         <img src="https://img.shields.io/badge/-Matplotlib-1E293B?style=flat-square&logo=python&logoColor=FBBF24" alt="Matplotlib"/>
       </td>
