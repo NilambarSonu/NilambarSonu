@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- 1. Fixed Executive Header Banner (Replaced %26 with %2B so XML never crashes on '&') -->
+<!-- 1. Fixed Executive Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Nilambar%20Behera&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=%E2%9C%A6%20FOUNDER%20%40%20MITTI-AI%20%20%E2%80%A2%20%20PRODUCT%20ENGINEER%20%20%E2%80%A2%20%20FULL-STACK%20%2B%20APPLIED%20AI%20%E2%9C%A6&descSize=14&descAlignY=58&animation=twinkling&color=0:0F172A,30:312E81,65:4F46E5,100:0D9488" alt="Nilambar Behera Header"/>
 
 <!-- 2. Clean Hero Centerpiece: Italic Tagline + Animated Subtitle + Symmetrical Action Bar -->
@@ -17,13 +17,13 @@ $$\Large\color{#A78BFA}\boldsymbol{\mathit{Building\ thoughtful\ products.\quad 
   <a href="https://saathiai.org">
     <img src="https://img.shields.io/badge/%F0%9F%8C%B1_STARTUP-SAATHIAI.ORG_%E2%86%97-0D9488?style=for-the-badge&labelColor=0F172A" height="28" alt="Saathi AI"/>
   </a>&nbsp;&nbsp;
-  <a href="https://nilambar-sonu-portfolio.vercel.app/">
+  <a href="https://nilambarsonu.me">
     <img src="https://img.shields.io/badge/%E2%9C%A6_PORTFOLIO-NILAMBARSONU.ME_%E2%86%97-4F46E5?style=for-the-badge&labelColor=0F172A" height="28" alt="Portfolio"/>
   </a>&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=NilambarSonu&style=for-the-badge&color=2563EB&labelColor=0F172A&label=PROFILE+VIEWS" height="28" alt="Profile views"/>
 </p>
 
-<!-- Tier 2: Compact Single-Row Social Dock (Fits 1 line cleanly without wrapping) -->
+<!-- Tier 2: Compact Single-Row Social Dock -->
 <p align="center">
   <a href="https://github.com/NilambarSonu"><img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=F8FAFC" height="24" alt="GitHub"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/nilambarsonu-behera-37ba0036a/"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=flat-square&logo=linkedin&logoColor=38BDF8" height="24" alt="LinkedIn"/></a>&nbsp;
@@ -79,9 +79,9 @@ $$\Large\color{#A78BFA}\boldsymbol{\mathit{Building\ thoughtful\ products.\quad 
         <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,html,css&theme=dark" height="40" alt="Languages"/>
       </td>
       <td align="right" valign="middle">
-        <img src="https://img.shields.io/badge/Type--Safe_Code-1E293B?style=flat-square" alt="Type-Safe"/>
-        <img src="https://img.shields.io/badge/Embedded_C%2B%2B-1E293B?style=flat-square" alt="Embedded"/><br/>
-        <img src="https://img.shields.io/badge/Async_Python-1E293B?style=flat-square" alt="Python"/>
+        <img src="https://img.shields.io/badge/-Type--Safe_Code-1E293B?style=flat-square" alt="Type-Safe"/>
+        <img src="https://img.shields.io/badge/-Embedded_C%2B%2B-1E293B?style=flat-square" alt="Embedded"/><br/>
+        <img src="https://img.shields.io/badge/-Async_Python-1E293B?style=flat-square" alt="Python"/>
       </td>
     </tr>
     <tr>
@@ -92,9 +92,9 @@ $$\Large\color{#A78BFA}\boldsymbol{\mathit{Building\ thoughtful\ products.\quad 
         <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,figma&theme=dark" height="40" alt="Frontend"/>
       </td>
       <td align="right" valign="middle">
-        <img src="https://img.shields.io/badge/SSR_%26_App_Router-1E293B?style=flat-square" alt="SSR"/>
-        <img src="https://img.shields.io/badge/3D_WebGL-1E293B?style=flat-square" alt="WebGL"/><br/>
-        <img src="https://img.shields.io/badge/Pixel--Perfect_UI-1E293B?style=flat-square" alt="UI"/>
+        <img src="https://img.shields.io/badge/-SSR_%26_App_Router-1E293B?style=flat-square" alt="SSR"/>
+        <img src="https://img.shields.io/badge/-3D_WebGL-1E293B?style=flat-square" alt="WebGL"/><br/>
+        <img src="https://img.shields.io/badge/-Pixel--Perfect_UI-1E293B?style=flat-square" alt="UI"/>
       </td>
     </tr>
     <tr>
@@ -105,9 +105,9 @@ $$\Large\color{#A78BFA}\boldsymbol{\mathit{Building\ thoughtful\ products.\quad 
         <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,postgres,mysql,mongodb,supabase&theme=dark" height="38" alt="Backend"/>
       </td>
       <td align="right" valign="middle">
-        <img src="https://img.shields.io/badge/REST_%26_WebSockets-1E293B?style=flat-square" alt="REST"/>
-        <img src="https://img.shields.io/badge/SQL_%26_NoSQL-1E293B?style=flat-square" alt="DB"/><br/>
-        <img src="https://img.shields.io/badge/High--Throughput_APIs-1E293B?style=flat-square" alt="APIs"/>
+        <img src="https://img.shields.io/badge/-REST_%26_WebSockets-1E293B?style=flat-square" alt="REST"/>
+        <img src="https://img.shields.io/badge/-SQL_%26_NoSQL-1E293B?style=flat-square" alt="DB"/><br/>
+        <img src="https://img.shields.io/badge/-High--Throughput_APIs-1E293B?style=flat-square" alt="APIs"/>
       </td>
     </tr>
     <tr>
@@ -118,10 +118,10 @@ $$\Large\color{#A78BFA}\boldsymbol{\mathit{Building\ thoughtful\ products.\quad 
         <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,jupyter&theme=dark" height="40" alt="AI"/>
       </td>
       <td align="right" valign="middle">
-        <img src="https://img.shields.io/badge/Pandas-1E293B?style=flat-square&logo=pandas&logoColor=A78BFA" alt="Pandas"/>
-        <img src="https://img.shields.io/badge/NumPy-1E293B?style=flat-square&logo=numpy&logoColor=38BDF8" alt="NumPy"/><br/>
-        <img src="https://img.shields.io/badge/LLM_Agents-1E293B?style=flat-square&logo=openai&logoColor=2DD4BF" alt="LLM"/>
-        <img src="https://img.shields.io/badge/Matplotlib-1E293B?style=flat-square&logo=python&logoColor=FBBF24" alt="Matplotlib"/>
+        <img src="https://img.shields.io/badge/-Pandas-1E293B?style=flat-square&logo=pandas&logoColor=A78BFA" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/-NumPy-1E293B?style=flat-square&logo=numpy&logoColor=38BDF8" alt="NumPy"/><br/>
+        <img src="https://img.shields.io/badge/-LLM_Agents-1E293B?style=flat-square&logo=openai&logoColor=2DD4BF" alt="LLM"/>
+        <img src="https://img.shields.io/badge/-Matplotlib-1E293B?style=flat-square&logo=python&logoColor=FBBF24" alt="Matplotlib"/>
       </td>
     </tr>
     <tr>
@@ -132,9 +132,9 @@ $$\Large\color{#A78BFA}\boldsymbol{\mathit{Building\ thoughtful\ products.\quad 
         <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,vercel,vscode,arduino,linux&theme=dark" height="38" alt="Cloud"/>
       </td>
       <td align="right" valign="middle">
-        <img src="https://img.shields.io/badge/AWS_Cloud_Deploy-1E293B?style=flat-square" alt="AWS"/>
-        <img src="https://img.shields.io/badge/Docker_CI%2FCD-1E293B?style=flat-square" alt="Docker"/><br/>
-        <img src="https://img.shields.io/badge/Edge_IoT_Sensing-1E293B?style=flat-square" alt="IoT"/>
+        <img src="https://img.shields.io/badge/-AWS_Cloud_Deploy-1E293B?style=flat-square" alt="AWS"/>
+        <img src="https://img.shields.io/badge/-Docker_CI%2FCD-1E293B?style=flat-square" alt="Docker"/><br/>
+        <img src="https://img.shields.io/badge/-Edge_IoT_Sensing-1E293B?style=flat-square" alt="IoT"/>
       </td>
     </tr>
     <tr>
@@ -159,10 +159,10 @@ $$\Large\color{#A78BFA}\boldsymbol{\mathit{Building\ thoughtful\ products.\quad 
     </td>
     <td width="66%" valign="top">
       Building an end-to-end agriculture intelligence platform across embedded IoT sensing, backend services, data pipelines, and mobile experiences.<br/><br/>
-      <img src="https://img.shields.io/badge/IoT_Hardware-1E293B?style=flat-square&logo=arduino&logoColor=2DD4BF" alt="IoT"/>&nbsp;
-      <img src="https://img.shields.io/badge/Full--Stack-1E293B?style=flat-square&logo=nextdotjs&logoColor=F8FAFC" alt="Next.js"/>&nbsp;
-      <img src="https://img.shields.io/badge/Applied_AI-1E293B?style=flat-square&logo=python&logoColor=38BDF8" alt="AI"/>&nbsp;
-      <img src="https://img.shields.io/badge/Cloud-1E293B?style=flat-square&logo=amazonaws&logoColor=FBBF24" alt="AWS"/>
+      <img src="https://img.shields.io/badge/-IoT_Hardware-1E293B?style=flat-square&logo=arduino&logoColor=2DD4BF" alt="IoT"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Full--Stack-1E293B?style=flat-square&logo=nextdotjs&logoColor=F8FAFC" alt="Next.js"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Applied_AI-1E293B?style=flat-square&logo=python&logoColor=38BDF8" alt="AI"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Cloud-1E293B?style=flat-square&logo=amazonwebservices&logoColor=FBBF24" alt="AWS"/>
     </td>
   </tr>
   <tr>
@@ -173,10 +173,10 @@ $$\Large\color{#A78BFA}\boldsymbol{\mathit{Building\ thoughtful\ products.\quad 
     </td>
     <td valign="top">
       Worked with Python, Pandas, SQL, and financial datasets to develop analytical workflows, KPI dashboards, and business insights.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=38BDF8" alt="Python"/>&nbsp;
-      <img src="https://img.shields.io/badge/Pandas-1E293B?style=flat-square&logo=pandas&logoColor=A78BFA" alt="Pandas"/>&nbsp;
-      <img src="https://img.shields.io/badge/SQL-1E293B?style=flat-square&logo=postgresql&logoColor=60A5FA" alt="SQL"/>&nbsp;
-      <img src="https://img.shields.io/badge/Financial_Data-1E293B?style=flat-square&logoColor=2DD4BF" alt="Data"/>
+      <img src="https://img.shields.io/badge/-Python-1E293B?style=flat-square&logo=python&logoColor=38BDF8" alt="Python"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Pandas-1E293B?style=flat-square&logo=pandas&logoColor=A78BFA" alt="Pandas"/>&nbsp;
+      <img src="https://img.shields.io/badge/-SQL-1E293B?style=flat-square&logo=postgresql&logoColor=60A5FA" alt="SQL"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Financial_Data-1E293B?style=flat-square&logoColor=2DD4BF" alt="Data"/>
     </td>
   </tr>
   <tr>
@@ -187,9 +187,9 @@ $$\Large\color{#A78BFA}\boldsymbol{\mathit{Building\ thoughtful\ products.\quad 
     </td>
     <td valign="top">
       Delivered full-stack web development assignments, AI-assisted product workflows, UX audits, and interactive Figma product flows.<br/><br/>
-      <img src="https://img.shields.io/badge/React_%26_Next.js-1E293B?style=flat-square&logo=react&logoColor=38BDF8" alt="React"/>&nbsp;
-      <img src="https://img.shields.io/badge/AI_Workflows-1E293B?style=flat-square&logo=openai&logoColor=2DD4BF" alt="AI"/>&nbsp;
-      <img src="https://img.shields.io/badge/Figma_UX-1E293B?style=flat-square&logo=figma&logoColor=F472B6" alt="Figma"/>
+      <img src="https://img.shields.io/badge/-React_%26_Next.js-1E293B?style=flat-square&logo=react&logoColor=38BDF8" alt="React"/>&nbsp;
+      <img src="https://img.shields.io/badge/-AI_Workflows-1E293B?style=flat-square&logo=openai&logoColor=2DD4BF" alt="AI"/>&nbsp;
+      <img src="https://img.shields.io/badge/-Figma_UX-1E293B?style=flat-square&logo=figma&logoColor=F472B6" alt="Figma"/>
     </td>
   </tr>
   <tr>
